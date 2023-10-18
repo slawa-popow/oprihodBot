@@ -1,0 +1,13 @@
+[Unit]
+Description=Telegram bot 'For Egor web-app telegram bot'
+After=syslog.target
+After=network.target
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/home/oprihodbot
+ExecStart=/home/oprihodbot/botvenv/bin/python3.10 /home/oprihodbot/main.py
+RestartSec=5
+Restart=always
+[Install]
+WantedBy=multi-user.target

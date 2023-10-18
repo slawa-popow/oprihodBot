@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"name": "ITincubator-abiturient",
+			"path": "../ITincubator-abiturient"
+		},
+		{
+			"name": "SoftPlitochka.by",
+			"path": "../SoftPlitochka.by"
+		},
+		{
+			"name": "botFromServer",
+			"path": "../botFromServer"
+		},
+		{
+			"name": "webAppBot",
+			"path": "../ITinc/webAppBot"
+		},
+		{
+			"name": "mysqlupdater",
+			"path": "../mysqlupdater/mysqlupdater"
+		},
+		{
+			"name": "itinc-lesson1",
+			"path": "../ITinc/itinc-lesson1"
+		},
+		{
+			"name": "it-inc-lesson2",
+			"path": "../ITinc/it-inc-lesson2"
+		},
+		{
+			"name": "foregor",
+			"path": "../foregor"
+		},
+		{
+			"name": "oprihodBot",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": null
+	}
+}
